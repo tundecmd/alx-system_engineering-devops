@@ -5,4 +5,4 @@
 # the ~/.ssh directory.
 # The private key will be protected by the passphrase "betty".
 
-ssh-keygen -t rsa -b 4096 -f ~/.ssh/school -N betty
+ssh-keygen -t rsa -b 4096 -f school -N betty
